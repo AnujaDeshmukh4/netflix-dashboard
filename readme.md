@@ -226,7 +226,7 @@ Tableau Development
 
 📸 Dashboard Preview
 
-![snapshot](snapshot-2.png)
+[snapshot](image/snapshot.png)
 
 Netflix Content Analytics Dashboard showcasing content distribution, ratings analysis, genre trends, geographical coverage, and yearly growth patterns.
 
